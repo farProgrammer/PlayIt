@@ -1,0 +1,19 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+#jeopardy {
+    background-color: #115ff4;
+    padding: 1rem;
+  }
+  
+  #cell {
+    padding: 1rem;
+  }
+  
+  #head-cell {
+    padding: 1rem;
+  }
